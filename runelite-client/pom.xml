@@ -130,7 +130,7 @@
 		<dependency>
 			<groupId>com.google.protobuf</groupId>
 			<artifactId>protobuf-javalite</artifactId>
-			<version>3.21.12</version>
+			<version>3.25.5</version>
 		</dependency>
 		<dependency>
 			<groupId>net.runelite</groupId>
@@ -265,7 +265,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
